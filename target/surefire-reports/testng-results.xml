@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="1" passed="1">
+<testng-results skipped="0" failed="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="com.company.testclasses.GoogleTest" duration-ms="40" started-at="2014-11-07T06:13:22Z" finished-at="2014-11-07T06:13:22Z">
+  <suite name="com.company.testclasses.GoogleTest" duration-ms="10" started-at="2014-11-07T05:54:58Z" finished-at="2014-11-07T05:54:58Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="40" started-at="2014-11-07T06:13:22Z" finished-at="2014-11-07T06:13:22Z">
-      <class name="com.company.testclasses.GoogleTest">
-        <test-method status="PASS" signature="New()[pri:0, instance:com.company.testclasses.GoogleTest@120c24c0]" name="New" duration-ms="10" started-at="2014-11-07T11:43:22Z" finished-at="2014-11-07T11:43:22Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- New -->
-      </class> <!-- com.company.testclasses.GoogleTest -->
+    <test name="Command line test" duration-ms="10" started-at="2014-11-07T05:54:58Z" finished-at="2014-11-07T05:54:58Z">
     </test> <!-- Command line test -->
   </suite> <!-- com.company.testclasses.GoogleTest -->
 </testng-results>
