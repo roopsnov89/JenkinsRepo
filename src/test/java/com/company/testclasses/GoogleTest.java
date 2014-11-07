@@ -9,5 +9,8 @@ public class GoogleTest {
 		System.out.println("hello world");
 	}
 
-
+@Test
+public void Test(){
+	System.out.println("new test method");
+}
 }
